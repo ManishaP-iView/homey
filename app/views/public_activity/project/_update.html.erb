@@ -1,0 +1,8 @@
+<p class="mt-3">
+  status changed
+  <% if activity.trackable %>
+    to <strong><%= activity.trackable.status %></strong> in <strong><%= activity.trackable.name %></strong>
+  <% else %>
+    which has since been removed
+  <% end %>
+</p>
