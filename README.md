@@ -1,4 +1,4 @@
-# README
+# homey
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -28,3 +28,4 @@ You can start the rails server using the command given below.
 ```ruby
 bundle exec rails s
 ```
+
